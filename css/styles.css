@@ -1,0 +1,13 @@
+h1 {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 600;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+}
+
+h3,
+ul {
+  font-family: "IBM Plex Mono", monospace;
+}
